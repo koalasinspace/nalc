@@ -1,0 +1,5 @@
+{
+    "pdf-forge.defaultFormat": "json",
+    "pdf-forge.enableOcr": true,
+    "pdf-forge.maxFileSize": 0
+}
